@@ -1,5 +1,4 @@
-# with open ("Prueba_exe.txt", mode='+w') as file:
-#     file.write("Test file save")
+
 
 import pyautogui
 from random import randint
